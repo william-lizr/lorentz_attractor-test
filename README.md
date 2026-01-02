@@ -1,6 +1,3 @@
-# lorentz_attractor-test
-basic lorentz attractor in numpy
-
 ## Introduction - how to clone repo and run
 
 1. Open command line
